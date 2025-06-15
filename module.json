@@ -1,0 +1,30 @@
+{
+  "id": "the-skaven-species",
+  "esmodules": [
+    "skavenspecies.js"
+  ],
+  "title": "The Skaven Species",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Pedigru",
+      "email": "gg.pedigru@gmail.com",
+      "discord": "Pedigru",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "This module adds the Skaven species to character generation."
+}
