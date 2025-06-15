@@ -15,8 +15,9 @@ No Skaven themed Career objects are included with this module.
 This module, again, is the basic subspecies only. A second version is being developed with full career paths. However,
 the second version will require ownership and installation of Cubical 7's "The Horned Rat" module for VTT Foundry.
 
-Installation is the same as any other module. Add The Skaven Species through Manage Modules. Save Settings and
-after Foundry refreshes, you are finished. 
+Installation is the same as any other module. 
+Add The Skaven Species through Manage Modules. 
+Save Settings and after Foundry refreshes, you are finished. 
 
 The four sub races will appear in character creation under Extra Species Options. They are not rolled for.
 
