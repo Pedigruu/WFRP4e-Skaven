@@ -26,8 +26,8 @@ Players creating a character will have to drag/drop a Career. Rolling for a Care
 Attributes can be rolled as per usual. No changes here outside of racial bonuses.
 
 Skills and Talents are assigned appropriately, nothing abnormal here. I have tried to keep "human" traits from being
-available through the use of talent swapping. If you roll a talen, such as Mimic (There is little chance a Skaven
-will be able to mimic Humans) you will be prompted to Keep Mimic or Choose Nose for Trouble. 
+available through the use of talent swapping. If you roll a talent, such as Mimic (There is little chance a Skaven
+will be able to mimic Humans) you will be prompted to Keep: Mimic or Choose: Nose for Trouble. 
 
 Trappings assigned to the character uses a loot table or pool of gear associated with the Career choice.
 
