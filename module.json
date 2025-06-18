@@ -26,5 +26,40 @@
       }
     ]
   },
-  "description": "This module adds the Skaven species to character generation."
+  "description": "This module adds the Skaven species to character generation.",
+  "packs": [
+    {
+      "name": "skaven-items",
+      "label": "Skaven Items",
+      "path": "packs/skaven-items",
+      "type": "Item",
+      "system": "wfrp4e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "skaven-journals",
+      "label": "Skaven Journals",
+      "path": "packs/skaven-journals",
+      "type": "JournalEntry",
+      "system": "wfrp4e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "skaven-roll-tables",
+      "label": "Skaven Roll Tables",
+      "path": "packs/skaven-roll-tables",
+      "type": "RollTable",
+      "system": "wfrp4e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
 }

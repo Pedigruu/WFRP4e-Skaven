@@ -68,14 +68,15 @@ Hooks.once("init", () => {
     "Artistic": "Beneath Notice",
     "Doomed": "Drilled",
     "Lip Reading": "Magical Sense",
-    "Mimic": "Nose for Trouble"
+    "Mimic": "Nose for Trouble",
+    "Pure Soul": "Sixth Sense"
   };
 
   config.speciesMovement.skaven1 = 5;
   config.speciesFate.skaven1 = 0;
   config.speciesRes.skaven1 = 1;
   config.speciesExtra.skaven1 = 2;
-  config.speciesExtra.skaven1 = "1d10+5";
+  config.speciesAge.skaven1 = "1d6+10";
   config.speciesHeight.skaven1 = {
     die: "1d10",
     feet: 4,
@@ -132,14 +133,15 @@ Hooks.once("init", () => {
     "Artistic": "Beneath Notice",
     "Doomed": "Drilled",
     "Lip Reading": "Magical Sense",
-    "Mimic": "Nose for Trouble"
+    "Mimic": "Nose for Trouble",
+    "Pure Soul": "Sixth Sense"
   };
 
   config.speciesMovement.skaven2 = 5;
   config.speciesFate.skaven2 = 1;
   config.speciesRes.skaven2 = 1;
   config.speciesExtra.skaven2 = 1;
-  config.speciesExtra.skaven2 = "1d10+5";
+  config.speciesAge.skaven2 = "1d6+10";
   config.speciesHeight.skaven2 = {
     die: "1d10",
     feet: 4,
@@ -198,14 +200,15 @@ Hooks.once("init", () => {
     "Artistic": "Beneath Notice",
     "Doomed": "Drilled",
     "Lip Reading": "Magical Sense",
-    "Mimic": "Nose for Trouble"
+    "Mimic": "Nose for Trouble",
+    "Pure Soul": "Sixth Sense"
   };
 
   config.speciesMovement.skaven3 = 5;
   config.speciesFate.skaven3 = 2;
   config.speciesRes.skaven3 = 1;
   config.speciesExtra.skaven3 = 1;
-  config.speciesExtra.skaven3 = "1d10+5";
+  config.speciesAge.skaven3 = "1d6+10";
   config.speciesHeight.skaven3 = {
     die: "1d10",
     feet: 4,
@@ -258,14 +261,15 @@ Hooks.once("init", () => {
     "Artistic": "Beneath Notice",
     "Doomed": "Drilled",
     "Lip Reading": "Magical Sense",
-    "Mimic": "Nose for Trouble"
+    "Mimic": "Nose for Trouble",
+    "Pure Soul": "Sixth Sense"
   };
 
   config.speciesMovement.skaven4 = 5;
   config.speciesFate.skaven4 = 0;
   config.speciesRes.skaven4 = 2;
   config.speciesExtra.skaven4 = 1;
-  config.speciesExtra.skaven4 = "1d10+5";
+  config.speciesAge.skaven4 = "1d6+10";
   config.speciesHeight.skaven4 = {
     die: "1d10",
     feet: 6,
