@@ -9,19 +9,13 @@ Skaven (Black Fur)
 Skaven (Grey Seer)
 Skaven (Rat Ogre)
 
-You, as GM or Foundry Owner, are expected to know how to drag & drop careers and other objects onto the character.
-No Skaven themed Career objects are included with this module.
-
-This module, again, is the basic subspecies only. A second version is being developed with full career paths. However,
-the second version will require ownership and installation of Cubical 7's "The Horned Rat" module for VTT Foundry.
-
 Installation is the same as any other module. 
 Add The Skaven Species through Manage Modules. 
 Save Settings and after Foundry refreshes, you are finished. 
 
-The four sub races will appear in character creation under Extra Species Options. They are not rolled for.
+The four sub races will appear in character creation under Extra Species Options. 
 
-Players creating a character will have to drag/drop a Career. Rolling for a Career will not work.
+Players creating a character will have to drag/drop a Career. 
 
 Attributes can be rolled as per usual. No changes here outside of racial bonuses.
 
@@ -31,7 +25,6 @@ will be able to mimic Humans) you will be prompted to Keep: Mimic or Choose: Nos
 
 Trappings assigned to the character uses a loot table or pool of gear associated with the Career choice.
 
-Finally, Adding Details will need to be manually typed in. Except for height, you may roll for Height.
 
 
 
