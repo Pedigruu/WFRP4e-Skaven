@@ -1,7 +1,7 @@
 response = await fetch("https://api.foundryvtt.com/_api/packages/release_version/", {
   headers: {
     'Content-Type': 'application/json',
-    'Authorization': 'fvttp_des9QKlIcPmU2ryTBYCUqRp3'
+    'Authorization': ''
   },
   method: "POST",
   body: JSON.stringify({
