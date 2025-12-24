@@ -1,21 +1,22 @@
 # WFRP4e-Skaven
 WFRP4e Skaven species
 
-This version adds 4 Skaven subspecies to your VTT Foundry WFRP4e installation.
-It is a basic installation of only these 4 subspecies:
+This module adds 4 Skaven subspecies to your VTT Foundry WFRP4e installation. 
+It included the following subspecies:
 
 Skaven (Clan Rat)
 Skaven (Black Fur)
 Skaven (Grey Seer)
 Skaven (Rat Ogre)
 
-Installation is the same as any other module. 
-Add The Skaven Species through Manage Modules. 
-Save Settings and after Foundry refreshes, you are finished. 
+Installation is the same as any other module. First install the module using the link to the repository. 
+Then, launch your game World you wish to add the Skaven Species Module to and add the Module through Manage Modules. 
 
 The four sub races will appear in character creation under Extra Species Options. 
 
-Players creating a character will have to drag/drop a Career. 
+Players will have the option to pick one of the Skaven subspecies during character creation. 
+Depending on the GM, players can either Roll for a Skaven specific career, Drag and Drop the Skaven specific career 
+or utilize a common (normal) species career. Either one will work perfectly fine. 
 
 Attributes can be rolled as per usual. No changes here outside of racial bonuses.
 
