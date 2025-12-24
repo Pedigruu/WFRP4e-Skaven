@@ -1,0 +1,8 @@
+2025/12/23-12:51:40.185 1cec Recovering log #110
+2025/12/23-12:51:40.190 1cec Delete type=0 #110
+2025/12/23-12:51:40.190 1cec Delete type=3 #109
+2025/12/23-14:18:47.284 3998 Level-0 table #114: started
+2025/12/23-14:18:47.284 3998 Level-0 table #114: 0 bytes OK
+2025/12/23-14:18:47.285 3998 Delete type=0 #112
+2025/12/23-14:18:47.286 3998 Manual compaction at level-0 from '!folders!YdDtoVRkLkmC1o39' @ 72057594037927935 : 1 .. '!items!xMkLhXXn2mT8Ijsy' @ 0 : 0; will stop at (end)
+2025/12/23-14:18:47.286 3998 Manual compaction at level-1 from '!folders!YdDtoVRkLkmC1o39' @ 72057594037927935 : 1 .. '!items!xMkLhXXn2mT8Ijsy' @ 0 : 0; will stop at (end)
